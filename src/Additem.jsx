@@ -112,7 +112,7 @@ const AddItem = () => {
         // })
         
 
-        fetch('https://ssportsstorebackend.onrender.com/api/product', {
+        fetch('https://sssportsinventorybackend.onrender.com/api/product', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'
