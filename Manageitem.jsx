@@ -13,7 +13,7 @@ const Manageitem = () => {
     const handleRemove = id => {
         const proceed = window.confirm('Are You Sure to Delete?');
         if (proceed) {
-            fetch(`http://localhost:4001/api/delete/product/${id}`, {
+            fetch(`https://ssportsstorebackend.onrender.com/api/delete/product/${id}`, {
                 method: 'DELETE',
             })
                 .then(res => {
