@@ -112,7 +112,7 @@ const Login = () => {
 
   const handleLogin = async () => {
     try {
-      const response = await fetch('https://ssportsstorebackend.onrender.com/api/login', {
+      const response = await fetch('https://sssportsinventorybackend.onrender.com/api/login', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
