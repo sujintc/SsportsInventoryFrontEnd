@@ -126,7 +126,7 @@ const Register = () => {
 
   const handleRegister = async () => {
     try {
-      const response = await fetch('http://localhost:4001/api/register/user', {
+      const response = await fetch('https://ssportsstorebackend.onrender.com/api/register/user', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
