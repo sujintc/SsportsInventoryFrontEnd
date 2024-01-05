@@ -13,7 +13,7 @@ import React, { useState } from 'react';
 import About from './About';
 import { Routes, Route } from 'react-router-dom';
 import Login from './Login';
-import PrivateRoute from './Privateroute';
+import PrivateRoute from './PrivateRoute';
 import Manageitem from './Manageitem';
 
 
