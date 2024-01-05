@@ -1,0 +1,65 @@
+/* Login.css */
+
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  
+  .boxes1 {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .register-link {
+    margin-top: 15px;
+    text-align: center;
+  }
+  
+  .register-link span {
+    margin-right: 5px;
+  }
+  
+  .register-link button {
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  .register-link button:hover {
+    background-color: #00688B;
+  }
+  
