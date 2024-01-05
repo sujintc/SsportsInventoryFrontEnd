@@ -112,7 +112,7 @@ const AddItem = () => {
         // })
         
 
-        fetch('http://localhost:4001/api/product', {
+        fetch('https://ssportsstorebackend.onrender.com/api/product', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'
