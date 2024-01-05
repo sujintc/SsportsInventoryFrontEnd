@@ -9,7 +9,7 @@ const useProducts = () => {
      },[]);
 
      const fetchdata =async(req,res)=>{
-        await axios.get('http://localhost:4001/api/get/product')
+        await axios.get('https://ssportsstorebackend.onrender.com/api/get/product')
         .then((res)=>{
             setItems(res.data.data)
             setmessage(res.data.message)
