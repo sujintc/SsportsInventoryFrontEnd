@@ -1,0 +1,49 @@
+.about-heading{
+    color: rgb(30, 31, 29);
+    font-size: 60px;
+    font-weight: 600;
+    margin-left: 480px;
+}
+
+/* About.css */
+.about-heading1{
+    color: rgb(30, 31, 29);
+    font-size: 60px;
+    font-weight: 600;
+    margin-left: 200px;
+    
+}
+
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.discount-section, .contact-section {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}

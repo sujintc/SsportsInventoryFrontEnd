@@ -1,0 +1,50 @@
+/* .textstyle1{
+  margin-right: 250px;
+} */
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color:rgb(170, 187, 187);
+    color: white;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    border-radius: 50%;
+    height: 100px;
+    margin-right: 20px;
+  }
+  
+  .logo h1 {
+    margin: 0;
+    font-size: 28px;
+    font-family: 'MozAnimation', sans-serif;
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between 10px;
+  }
+  
+  .nav-links li {
+    margin-right: 200px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color:black;
+    font-size: 30px;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  

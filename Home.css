@@ -1,0 +1,198 @@
+.positiontype{
+    margin-top: 30px;
+    height: 700px;
+
+}
+
+.d-block{
+
+    height: 600px;
+    width: 1500px;
+}
+
+.labelstyle{
+      margin-left: 200px;
+      font-size: 50px;
+      color: azure;
+    font-weight: 900;
+       margin-left:0px ;
+        margin-bottom: 200px;
+
+}
+.dark{
+    background-color: black;
+}
+
+
+/* Home.css */
+
+/* Home.css */
+
+.above-carousel {
+    background-color: #1a1a1a; /* Dark background color */
+    padding: 40px;
+    text-align: center;
+    color: #f5f0f0; /* White text color */
+    font-family: 'Playfair Display', serif; /* Choose an elegant font */
+}
+
+.above-carousel h1 {
+    font-size: 3em; /* Increase font size for a grand look */
+    margin-bottom: 20px;
+    font-weight: 700; /* Bold font weight */
+}
+
+.above-carousel p {
+    font-size: 1.5em; /* Larger font size for better readability */
+    font-weight: 400; /* Regular font weight */
+    opacity: 0.8; /* Slightly transparent text for a subtle effect */
+}
+
+  
+  .below-carousel {
+    background-color: #f4f4f4;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .below-carousel h2 {
+    color: #333;
+    font-size: 1.8em;
+    margin-bottom: 20px;
+  }
+  
+  .product-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .product-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .product-card h3 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
+  .product-card p {
+    color: #666;
+    font-size: 1em;
+  }
+
+  /* Home.css */
+
+/* Existing styles remain unchanged */
+
+.additional-content {
+    background-color: #f8f8f8;
+    padding: 40px 20px;
+  }
+  
+
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+  /* Home.css */
+
+/* ... (previous styles) */
+
+.latest-news {
+    background-color: #fff;
+    padding: 40px 20px;
+}
+
+.news-article {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.news-article img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+
+.article-content {
+    flex: 1;
+}
+
+.article-content h3 {
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.article-content p {
+    color: #666;
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+.article-content a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+}
+
+
+/* Home.css */
+
+/* ... (previous styles) */
+
+.special-offers {
+    background-color: #f8f8f8;
+    padding: 40px 20px;
+}
+
+.offer-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.offer-card h3 {
+    color: #333;
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.offer-card p {
+    color: #666;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.offer-card a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+}
+
+
+  
+  
